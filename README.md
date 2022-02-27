@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PhilShea
-- 👀 I’m interested in Data Science, signal processing, detection and estimation.
-- 🌱 I’m currently learning R (and who using R isn't still currently learning it.)
-- 💞️ I’m not looking to collaborate on anything.
+- Hi, I’m @PhilShea
+- I’m interested in Data Science, signal processing, detection and estimation.
+- 🌱 I’m currently learning R (and who, using R, isn't still learning it.)
+- I’m not looking to collaborate on anything.
 - 📫 How to reach me philshea@gmail.com.  Note I have a very, very low spam threshold.
 
 <!---
